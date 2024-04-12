@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #FFD700; /* Cor de fundo amarela */
+    padding: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #333;
+}
+
+section {
+    padding: 50px;
+}
+
+footer {
+    background-color: #333; /* Cor de fundo preta */
+    color: #FFF; /* Cor do texto branco */
+    text-align: center;
+    padding: 20px;
+}
